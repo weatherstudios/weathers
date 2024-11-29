@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+
 <meta name=“author” content=“DaarkLo”>
 
 <meta http-equiv=“refresh” content=“3”>
