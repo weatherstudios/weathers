@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name=“author” content=“DaarkLo”>
+
+<meta http-equiv=“refresh” content=“3”>
+
+<meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>WeatherStudios😜</h1>
+<p>𝓦𝓔𝓐𝓣𝓗𝓔𝓡𝓢𝓣𝓤𝓓𝓘̇𝓞𝓢</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6csMLqhTjqMvsYhoxx1aYifWoeGOmpH7DJQ&s"/> 
+<html>discord:
+<a href="https://discord.gg/QY45Zc2nKq" target="_blank">https://discord.gg/QY45Zc2nKq.</a>
