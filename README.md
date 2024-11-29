@@ -13,17 +13,6 @@
 
 <a href="https://discord.gg/QY45Zc2nKq" target="_blank">https://discord.gg/QY45Zc2nKq.</a>
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Link Geçersiz'mi?</h2>
-
-<p id="demo">OZAMAN AŞŞAĞIDAKİ BUTONA TIKLA!</p>
-
-<button type="button" onclick='document.getElementById("demo").innerHTML = "YAZIYI KOPYALA TARAYICINA YAPIŞTIR: https://discord.gg/Pw36Zr95"'>tıkla bana!</button>
-
-</body>
 </html>WeatherStudios bir boraLo sunucusudur, sunucu 1 kasım 2024 tarihinde oluşturulmuş, ve kısa süre içinde kalite,üye sayısı,akitflik.ve çeşitli etkinliklerle ayakta kalmayı başarmıştır.
 
 
