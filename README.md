@@ -5,7 +5,6 @@
 
 <meta http-equiv=“refresh” content=“3”>
 
-<meta name=“viewport” content=“width=device-width, initial-scale=2.0”>
 <title>Page Title</title>
 </head>
 <body>
