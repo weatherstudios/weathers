@@ -5,7 +5,6 @@
 
 <meta http-equiv=“refresh” content=“3”>
 
-<title>Page Title</title>
 </head>
 <body>
 <img src="C:\Users\hediy\Pictures\nasıbı7.PNG" alt="">
